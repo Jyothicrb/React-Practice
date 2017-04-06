@@ -1,4 +1,4 @@
 # React-Practice
-Practice react
-Am new to JS and react .
-This repository will contain all th epractice files
+Practice react.
+I'am new to JS and react .
+This repository will contain all the practice files
