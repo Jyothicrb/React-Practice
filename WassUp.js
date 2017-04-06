@@ -11,11 +11,10 @@ const user = {
 };
 const someName = (
   <h1> what's Up !! {fname(user)} </h1>);
-    
 ReactDOM.render(
     someName,
       document.getElementById('root')
-    )
+    );
     
     <!-- 
     *<div id="root">
